@@ -1,5 +1,3 @@
-![yuml.me Diagram](https://www.yuml.me/ed7fc722.png)
-
 [yuml.me Diagram](https://www.yuml.me/ed7fc722.png)
 
 ```
